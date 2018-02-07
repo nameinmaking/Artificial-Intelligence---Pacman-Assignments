@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------
+| Heuristics for Question #6:													 |
+|----------------------------													 |
+| Calculating the Manhattan distances of the current node to its closest corner  |
+| and the Manhattan distanc to the other un-explored corners in the game.		 |
+----------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------
+| Heuristics for Question #7:													 |
+|----------------------------													 |
+| The number of food dots left in the foodGrid for the current state in the game |
+| is taken as the heuristic value, to find the solution							 |
+----------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------
+| Estimated time spent on this homework: 48 hours								 |
+----------------------------------------------------------------------------------
